@@ -1,4 +1,6 @@
 ### pyserver
+
+[![Join the chat at https://gitter.im/desperauxq/pyserver](https://badges.gitter.im/desperauxq/pyserver.svg)](https://gitter.im/desperauxq/pyserver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Simple HTTP web server in Python.
 
 #### Dependencies
