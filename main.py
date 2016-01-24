@@ -1,9 +1,11 @@
+#!/usr/bin/python3
+
 # Authored by: Desperauxq
 
 import http.server
 import socketserver
 
-# PORT location, I choose 8000 as usual
+# PORT location, 8000 for IR
 PORT = 8000
 
 Handler = http.server.SimpleHTTPRequestHandler
